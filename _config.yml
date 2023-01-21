@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: luftmensch.info
+title: tana.github.io
 # email: TODO
 description: >- # this means to ignore newlines until "baseurl:"
   This is a personal web site of tana_ash.
